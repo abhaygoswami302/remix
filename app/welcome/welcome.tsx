@@ -3,7 +3,11 @@ import logoLight from "./logo-light.svg";
 
 export function Welcome() {
   return (
-  <h1>Welcome ghjjk Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt beatae veritatis recusandae.</h1>
+    <div>
+
+      <h1>Welcome ghjjk Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt beatae veritatis recusandae.</h1>
+      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Recusandae eum sequi sed omnis aspernatur dolor debitis, maiores nulla eveniet commodi ab. Quae dolore voluptates vitae, nemo officiis expedita tenetur exercitationem recusandae provident molestias aperiam qui sint perspiciatis repellat autem aut ratione ipsam quam facere mollitia pariatur sequi suscipit. Alias voluptate ratione ducimus nostrum eaque earum doloribus, fuga accusamus maiores dolorem perspiciatis optio tenetur provident cum dolores repellendus sed nam corporis vero consectetur commodi. Quae quas iure dolor esse dolores et quos laborum expedita, velit officiis illo reiciendis doloremque autem sed nostrum officia veniam, minima aliquid. Earum sed repudiandae impedit officiis eius necessitatibus ut sunt, amet, totam quas beatae maiores nesciunt nobis corrupti aperiam placeat asperiores voluptate! Ipsum nihil architecto animi a commodi id qui voluptatibus necessitatibus, nemo in neque numquam velit facilis iste laborum, modi distinctio, quasi accusantium eos hic quaerat natus quo provident? Perspiciatis corrupti optio incidunt quam odio modi. Autem tempore iusto nulla aut harum nemo vel rem accusamus, iste error qui doloremque aliquid deleniti in commodi aspernatur nostrum magni vitae facere similique voluptate repellat magnam unde? Non cumque delectus molestiae? Mollitia alias, sint voluptas non, inventore dicta hic fugit velit numquam officiis vel consectetur doloremque? Libero odio itaque ratione fugit quas, et ipsa ducimus. Voluptas, perferendis optio? Cum repellendus excepturi adipisci molestias vero quidem, expedita, eum itaque, doloremque perferendis voluptates sequi! Repudiandae obcaecati architecto, aliquid sunt sed labore perferendis quaerat exercitationem fugit adipisci nulla eveniet odio quis blanditiis impedit ipsum! Quidem quibusdam animi asperiores eveniet hic facilis quia vitae aperiam! Corporis, aut!</p>
+    </div>
   );
 }
 
