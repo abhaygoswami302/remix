@@ -12,7 +12,10 @@ export function Welcome() {
         autem rem.
       
       </p>
-      <div>tHIS CROUPTED CODE</div>
+      <div>
+        <h1>tHIS CROUPTED CODE </h1>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Soluta nobis consequuntur molestias aspernatur suscipit! Qui blanditiis, expedita temporibus doloremque nulla incidunt hic doloribus, vero repellendus dolor aliquam ad atque non.</p>
+      </div>
     </>
   );
 }
