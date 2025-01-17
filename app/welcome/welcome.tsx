@@ -16,6 +16,7 @@ export function Welcome() {
       </p>
       <div>this is croupted code </div>
       <h3>I'm virus!!!</h3>
+      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nesciunt obcaecati ullam assumenda.</p>
     </>
   );
 }
