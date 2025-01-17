@@ -14,9 +14,10 @@ export function Welcome() {
 
       
       </p>
-      <div>this is croupted code </div>
-      <h3>I'm virus!!!</h3>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nesciunt obcaecati ullam assumenda.</p>
+      <div>
+        <h1>grid my branchofbranch </h1>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Soluta nobis consequuntur molestias aspernatur suscipit! Qui blanditiis, expedita temporibus doloremque nulla incidunt hic doloribus, vero repellendus dolor aliquam ad atque non.</p>
+      </div>
     </>
   );
 }
